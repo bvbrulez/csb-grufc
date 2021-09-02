@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://bvbrulez.github.io/csb-grufc/static/css/main.235be697.chunk.css",
-    "main.js": "https://bvbrulez.github.io/csb-grufc/static/js/main.cc3e5ab1.chunk.js",
-    "main.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/main.cc3e5ab1.chunk.js.map",
+    "main.css": "https://bvbrulez.github.io/csb-grufc/static/css/main.3f83f5b3.chunk.css",
+    "main.js": "https://bvbrulez.github.io/csb-grufc/static/js/main.58ae5c18.chunk.js",
+    "main.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/main.58ae5c18.chunk.js.map",
     "runtime-main.js": "https://bvbrulez.github.io/csb-grufc/static/js/runtime-main.7fab8bd7.js",
     "runtime-main.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/runtime-main.7fab8bd7.js.map",
     "static/js/2.03c33ab1.chunk.js": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js",
     "static/js/2.03c33ab1.chunk.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js.map",
     "index.html": "https://bvbrulez.github.io/csb-grufc/index.html",
-    "static/css/main.235be697.chunk.css.map": "https://bvbrulez.github.io/csb-grufc/static/css/main.235be697.chunk.css.map",
+    "static/css/main.3f83f5b3.chunk.css.map": "https://bvbrulez.github.io/csb-grufc/static/css/main.3f83f5b3.chunk.css.map",
     "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7fab8bd7.js",
     "static/js/2.03c33ab1.chunk.js",
-    "static/css/main.235be697.chunk.css",
-    "static/js/main.cc3e5ab1.chunk.js"
+    "static/css/main.3f83f5b3.chunk.css",
+    "static/js/main.58ae5c18.chunk.js"
   ]
 }
