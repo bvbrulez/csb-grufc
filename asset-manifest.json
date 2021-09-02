@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bvbrulez.github.io/csb-grufc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bvbrulez.github.io/csb-grufc/static/js/main.8e7d038a.chunk.js",
+    "main.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/main.8e7d038a.chunk.js.map",
+    "runtime-main.js": "https://bvbrulez.github.io/csb-grufc/static/js/runtime-main.7fab8bd7.js",
+    "runtime-main.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/runtime-main.7fab8bd7.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://bvbrulez.github.io/csb-grufc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bvbrulez.github.io/csb-grufc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://bvbrulez.github.io/csb-grufc/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fab8bd7.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8e7d038a.chunk.js"
+  ]
+}
